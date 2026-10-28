@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "headphone-001",
+    "name": "Sonic Pro Wireless",
+    "brand": "Sonic",
+    "category": "headphones",
+    "price": 79,
+    "currency": "USD",
+    "rating": 4.5,
+    "features": ["Wireless", "Noise cancellation", "30-hour battery"],
+    "description": "Wireless headphones for studying and everyday listening.",
+    "stock": 12
+  },
+  {
+    "id": "headphone-002",
+    "name": "Studio Lite",
+    "brand": "Studio",
+    "category": "headphones",
+    "price": 49,
+    "currency": "USD",
+    "rating": 4.2,
+    "features": ["Wireless", "Lightweight", "25-hour battery"],
+    "description": "Lightweight headphones for work and online classes.",
+    "stock": 20
+  },
+  {
+    "id": "headphone-003",
+    "name": "QuietMax ANC",
+    "brand": "QuietMax",
+    "category": "headphones",
+    "price": 99,
+    "currency": "USD",
+    "rating": 4.7,
+    "features": ["Wireless", "Active noise cancellation", "40-hour battery"],
+    "description": "Over-ear headphones designed for focused listening.",
+    "stock": 8
+  },
+  {
+    "id": "keyboard-001",
+    "name": "KeyFlow Mechanical",
+    "brand": "KeyFlow",
+    "category": "keyboards",
+    "price": 69,
+    "currency": "USD",
+    "rating": 4.6,
+    "features": ["Mechanical keys", "USB-C", "Compact layout"],
+    "description": "Compact keyboard suited to programming and productivity.",
+    "stock": 15
+  },
+  {
+    "id": "mouse-001",
+    "name": "Precision Wireless Mouse",
+    "brand": "Precision",
+    "category": "mice",
+    "price": 35,
+    "currency": "USD",
+    "rating": 4.3,
+    "features": ["Wireless", "Adjustable DPI", "Ergonomic design"],
+    "description": "Wireless mouse for everyday work and browsing.",
+    "stock": 25
+  },
+  {
+    "id": "monitor-001",
+    "name": "ViewPoint 27",
+    "brand": "ViewPoint",
+    "category": "monitors",
+    "price": 229,
+    "currency": "USD",
+    "rating": 4.4,
+    "features": ["27-inch display", "1440p", "Adjustable stand"],
+    "description": "A productivity monitor for coding and multitasking.",
+    "stock": 6
+  }
+]
